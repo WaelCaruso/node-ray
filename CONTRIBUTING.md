@@ -17,3 +17,4 @@ Notes and usage details for node-ray.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
